@@ -6,3 +6,8 @@
 - StateObject: Reference type inside your SwiftUI view to represent an **ObservableObject**. Instance won't die when view updates.
 - ObservedObject: As previous one but this instance will die when view updates.
 
+# Files
+
+
+https://github.com/user-attachments/assets/a65fd923-afc4-42ef-a878-316abed17c3e
+
